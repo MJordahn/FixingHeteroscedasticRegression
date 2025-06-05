@@ -1,6 +1,6 @@
 defaults:
-  - data: cifar10
-  - model: wrn
+  - data: painn
+  - model: painn
   - inference: map
   - logger: wandb
   - _self_
